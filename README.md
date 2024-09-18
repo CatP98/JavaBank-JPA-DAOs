@@ -1,21 +1,21 @@
 # JavaBank - JPA and DAOs
 
 
-## Overview
+### Overview
 
 The Java Bank Application is a banking system implemented in Java. It provides functionalities for managing customers, accounts, transactions, and recipients. The application uses Spring Framework for dependency injection and transaction management, and JPA for data persistence.
 
-## Languages
+### Languages
 - **Java**
 - **HTML**: Used for structuring the content of the web pages.
 - **CSS**: Used for styling the web pages and ensuring a consistent look and feel.
 
-## Frameworks and Libraries
+### Frameworks and Libraries
 
 - **Flexbox**: CSS layout module used for creating responsive web layouts.
 - **Google Fonts**: Used for custom fonts (e.g., Roboto).
 
-## Tools
+### Tools
 - **Spring Framework**
 - **Hibernate**
 - **MySQL**
@@ -23,16 +23,16 @@ The Java Bank Application is a banking system implemented in Java. It provides f
 - **VS Code**: A code editor used for editing HTML and CSS files.
 - **Developer Tools**: Built-in browser tools for debugging and testing web pages.
 
-## Features
+### Features
 
 - **Customer Management:** Add, update, retrieve, and list customers.
 - **Account Management:** Open, close, and manage accounts associated with customers.
 - **Transaction Management:** View account statements and manage transactions.
 - **Recipient Management:** Retrieve and manage recipients associated with customers.
 
-## Getting Started
+### Getting Started
 
-### Prerequisites
+## Prerequisites
 
 - JDK 11 or higher
 - Maven (for build and dependency management)
